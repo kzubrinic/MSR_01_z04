@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pozdrav prijatelju 4</string>
+    <string name="tekst_dohvati">Dohvati poruke</string>
+    <string name="tekst_pozdrav">Pozdrav</string>
+</resources>
